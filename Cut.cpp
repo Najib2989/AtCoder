@@ -12,7 +12,6 @@ int main()
     for(int i=0; i<N; i++){
         cin >> arr[i];
     }
-      //K = K % N;
 
     int ind = N-K;
     for(int i=ind; i<N; i++){
